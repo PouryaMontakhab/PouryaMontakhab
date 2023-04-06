@@ -1,5 +1,5 @@
 <h1 align="center">Pouria Montakhab</h1>
-<h3 align="left">.Net developer</h3>
+<h3 align="left">.Net Developer</h3>
 
 - 🔭 I’m currently working on [Ostadbash](https://www.ostadbash.com/)
 
