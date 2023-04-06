@@ -1,5 +1,8 @@
 <h1 align="center">Pouria Montakhab</h1>
 <h3 align="left">.Net Developer</h3>
+<p align="left">
+I am a .Net developer who has been working professionally in the field of web application development for 5 years. During my five years of experience, I have gained significant knowledge and proficiency in .NET development. I am familiar with the various components of the .NET framework, including the Common Language Runtime (CLR), the Base Class Library (BCL), and the Framework Class Library (FCL). I have also worked with various tools and technologies related to .NET development, such as Visual Studio, SQL Server, and ASP.NET. I have worked on various projects, ranging from simple applications to complex enterprise-level systems. Also, I have experience working in different industries, such as finance, Automobile services. I love teaching my programming knowledge to others and I have an online programming courses platform (in my mother tongue)in which try to record new subjects. you can see it at www.ostadbash.com.
+</p>
 
 - 🔭 I’m currently working on [Ostadbash](https://www.ostadbash.com/)
 
